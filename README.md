@@ -83,88 +83,96 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Manisha M
+<h1 align="center">Hi, I'm Manisha 👋</h1>
+<h3 align="center">Senior Software Engineer • Backend & Cloud Systems</h3>
 
-Senior Software Engineer | Backend & Cloud Systems  
-📍 New Jersey, USA  
-📧 mmanisha0310@gmail.com  
-🔗 LinkedIn: <your-linkedin-url>
+<p align="center">
+  <a href="your-linkedin-url">LinkedIn</a> •
+  <a href="mailto:mmanisha0310@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a **Software Engineer with 3+ years of experience** building **scalable, secure, cloud-native backend systems** in **finance and healthcare domains**.
+I design and build **production-grade backend systems** that scale, stay secure,  
+and don’t wake people up at 3 AM.
 
-My core expertise lies in:
-- Designing **Spring Boot microservices**
-- Building **secure REST APIs**
-- Implementing **event-driven systems with Kafka**
-- Deploying and operating production workloads on **AWS**
+- ☕ Java / Spring Boot microservices
+- ☁️ Cloud-native systems on AWS
+- 🔁 Event-driven architectures (Kafka)
+- 🔐 Security-first API design
+- ⚙️ Automation, reliability, and performance tuning
 
-I focus on **reliability, performance, security, and automation**, and enjoy working on systems that operate at scale.
-
----
-
-## 🧠 Technical Expertise
-
-### Backend & APIs
-- Java (Spring Boot), Python (Flask)
-- RESTful API Design, Swagger / OpenAPI
-- JPA / Hibernate, Testcontainers
-
-### Cloud & DevOps
-- AWS: EC2, ECS, Lambda, S3, ELB, Auto Scaling
-- Docker, Kubernetes
-- Jenkins, GitHub Actions, CI/CD Pipelines
-
-### Data & Messaging
-- PostgreSQL, MySQL, Redis
-- Apache Kafka, Event-Driven Architecture
-
-### Security
-- OAuth2 (PKCE), JWT, RBAC
-- AES-256 Encryption, JWS
-- Compliance-driven API design (Healthcare & Finance)
-
-### Observability
-- CloudWatch, ELK Stack
-- Prometheus, Grafana, Splunk
+I enjoy turning **messy real-world problems** into **clean, maintainable systems**.
 
 ---
 
-## 🚀 Selected Work
+## 🧠 What I Work With
 
-### 🏦 Wells Fargo
-- Built **high-availability Spring Boot microservices** for enterprise platforms
-- Designed **Kafka-based real-time processing pipelines**
-- Improved API performance by **30%+** through query tuning and Redis caching
-- Achieved **99.99% uptime** using AWS auto-scaling and health checks
-- Automated alerting workflows using Python, reducing ops cost by **40%**
-
-### 🏥 Healthcare Platforms
-- Developed **FHIR R4–compliant APIs**
-- Implemented secure patient data exchange using **OAuth2 + AES-256**
-- Built audit-ready event pipelines with Kafka
-- Optimized persistence layers reducing DB latency by **40%**
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+</p>
 
 ---
 
-## 🧩 Projects
+## 🏦 Currently
 
-### Arch – AI-Enabled Cloud Infrastructure Automation
-- Converts natural language prompts into cloud architecture blueprints
-- Uses **LLMs via AWS Bedrock**
-- Reduced cloud design time by **50%**
-- Serverless, secure, container-based workflow on AWS
+<p>
+  <img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="280"/>
+</p>
+
+- Building **high-availability backend services** in a large-scale enterprise environment  
+- Working with **Spring Boot, Kafka, PostgreSQL, Redis, and AWS**
+- Focused on **reliability, observability, and secure system design**
+- Shipping changes that impact **millions of users**
+
+*(Details live in my resume — this space is for the fun stuff)*
 
 ---
 
-## 📜 Certifications
-- AWS Certified Solutions Architect – Associate
-- Oracle Certified Professional: Java SE 17
+## 🧩 Side Project Highlight
+
+### 🏗️ Arch — AI for Cloud Architecture
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="450"/>
+</p>
+
+- Turn **natural language** into **cloud architecture blueprints**
+- Powered by **LLMs (AWS Bedrock)**
+- Serverless, containerized, secure by default
+- Built to reduce human error in infrastructure design
 
 ---
 
-📌 *Open to backend, platform, and cloud engineering opportunities.*
+## 📊 GitHub Stats (Because Why Not)
 
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <i>Clean systems > clever hacks</i>
+</p>
