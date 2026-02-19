@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="your-linkedin-URL">
@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div> 
 
 ---
 
@@ -67,7 +67,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+-->
 <!--
 **MManisha03/MManisha03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -82,3 +82,89 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Manisha M
+
+Senior Software Engineer | Backend & Cloud Systems  
+📍 New Jersey, USA  
+📧 mmanisha0310@gmail.com  
+🔗 LinkedIn: <your-linkedin-url>
+
+---
+
+## 👩‍💻 About Me
+
+I am a **Software Engineer with 3+ years of experience** building **scalable, secure, cloud-native backend systems** in **finance and healthcare domains**.
+
+My core expertise lies in:
+- Designing **Spring Boot microservices**
+- Building **secure REST APIs**
+- Implementing **event-driven systems with Kafka**
+- Deploying and operating production workloads on **AWS**
+
+I focus on **reliability, performance, security, and automation**, and enjoy working on systems that operate at scale.
+
+---
+
+## 🧠 Technical Expertise
+
+### Backend & APIs
+- Java (Spring Boot), Python (Flask)
+- RESTful API Design, Swagger / OpenAPI
+- JPA / Hibernate, Testcontainers
+
+### Cloud & DevOps
+- AWS: EC2, ECS, Lambda, S3, ELB, Auto Scaling
+- Docker, Kubernetes
+- Jenkins, GitHub Actions, CI/CD Pipelines
+
+### Data & Messaging
+- PostgreSQL, MySQL, Redis
+- Apache Kafka, Event-Driven Architecture
+
+### Security
+- OAuth2 (PKCE), JWT, RBAC
+- AES-256 Encryption, JWS
+- Compliance-driven API design (Healthcare & Finance)
+
+### Observability
+- CloudWatch, ELK Stack
+- Prometheus, Grafana, Splunk
+
+---
+
+## 🚀 Selected Work
+
+### 🏦 Wells Fargo
+- Built **high-availability Spring Boot microservices** for enterprise platforms
+- Designed **Kafka-based real-time processing pipelines**
+- Improved API performance by **30%+** through query tuning and Redis caching
+- Achieved **99.99% uptime** using AWS auto-scaling and health checks
+- Automated alerting workflows using Python, reducing ops cost by **40%**
+
+### 🏥 Healthcare Platforms
+- Developed **FHIR R4–compliant APIs**
+- Implemented secure patient data exchange using **OAuth2 + AES-256**
+- Built audit-ready event pipelines with Kafka
+- Optimized persistence layers reducing DB latency by **40%**
+
+---
+
+## 🧩 Projects
+
+### Arch – AI-Enabled Cloud Infrastructure Automation
+- Converts natural language prompts into cloud architecture blueprints
+- Uses **LLMs via AWS Bedrock**
+- Reduced cloud design time by **50%**
+- Serverless, secure, container-based workflow on AWS
+
+---
+
+## 📜 Certifications
+- AWS Certified Solutions Architect – Associate
+- Oracle Certified Professional: Java SE 17
+
+---
+
+📌 *Open to backend, platform, and cloud engineering opportunities.*
+
