@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -67,7 +67,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
--->
+
 <!--
 **MManisha03/MManisha03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -82,17 +82,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Manisha M</h1>
+<h3 align="left">Software Engineer • Backend & Cloud Systems</h3>
 
-<h1 align="center">Hi, I'm Manisha 👋</h1>
-<h3 align="center">Senior Software Engineer • Backend & Cloud Systems</h3>
-
-<p align="center">
-  <a href="your-linkedin-url">LinkedIn</a> •
-  <a href="mailto:mmanisha0310@gmail.com">Email</a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="your-linkedin-url" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
