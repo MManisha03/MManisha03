@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <h3 align="left">Software Engineer • Backend & Cloud Systems</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MManisha03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views/">
 </p>
 
 ## 🤝 Connect with Me
