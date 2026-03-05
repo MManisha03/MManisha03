@@ -162,7 +162,7 @@ I enjoy turning **messy real-world problems** into **clean, maintainable systems
 
 ---
 
-## 📊 GitHub Stats (Because Why Not)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight"/>
