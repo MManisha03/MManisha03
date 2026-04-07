@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manisha M</h1>
-<h3 align="center">Software Engineer • Backend & Cloud Systems</h3>
+<h3 align="center">Software Engineer • Backend & AI , Cloud Systems</h3>
 
 <p align="center">
   Backend engineer with 3+ years of experience building scalable cloud-native systems using Java, Spring Boot, AWS, Kafka, and PostgreSQL.
